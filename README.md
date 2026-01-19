@@ -16,6 +16,9 @@ Dataset links are provided in the assignment description.
 - Aligned trades with daily sentiment using date-based merging
 - Defined performance using realized PnL, ROI, and win rate
 - Analyzed profitability, risk, and trader-level behavior across sentiment regimes
+- ## How to Run
+The analysis was developed in Google Colab and can be run locally by installing the dependencies listed in `requirements.txt` and executing the notebook top-to-bottom.
+
 
 ## Key Insights
 - Trading during Greed periods shows higher average returns but significantly higher downside risk
